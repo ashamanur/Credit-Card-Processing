@@ -1,0 +1,8 @@
+* Add Joey 4111111111111111 $2000
+* Add Phoebe 4716453519524332 $5000
+* Add Chandler 1234567890123456 $4000
+* Charge Joey $1500
+* Charge Joey $800
+* Charge Phoebe $500
+* Credit Phoebe $900
+* Credit Chandler $200 
